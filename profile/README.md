@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img alt="Sinuslabs logo" title="Sinuslabs logo" src="./images/LOGO + NAME.svg" height="75">
+  <img alt="Sinuslabs logo" title="Sinuslabs logo" src="https://raw.githubusercontent.com/Sinuslabs/.github/a62b5a9b69b03a499452bc6c45a7879b1fdd3506/profile/images/LOGO%20%2B%20NAME.svg" height="75">
 
 </br>
 
