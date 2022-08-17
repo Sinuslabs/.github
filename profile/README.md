@@ -17,7 +17,7 @@
 
 ### Open Source ![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-green)
 
-We value, support and believe  in Open Source Software. All tools released are following th GPLv3 License. All the tools and infrastructure we are using is open source. We upstream as much as possible.
+We value, support and believe  in Open Source Software. All tools released are following the GPLv3 License. All the tools and infrastructure we are using is open source. We upstream as much as possible.
 
 ### Products
 
