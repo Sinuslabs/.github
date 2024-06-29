@@ -7,12 +7,11 @@
 
 <p align='center'>
   We are a small team of passionate creatives making next-generation virtual instruments from our studio in Berlin.
-
+  Solo Developer from Berlin creating open source VST|AU Audio Plugins & Effects.
 ### Links
 
 * <a href='https://sinuslabs.io'><img src="https://img.shields.io/badge/Sinuslabs.io-black" style="zoom:150%;" /></a>
 * <a href='https://soundcloud.com/sinuslabs'><img src="https://img.shields.io/badge/Soundcloud-orange" style="zoom:150%;" /></a>
-
 
 
 ### Open Source ![](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-green)
